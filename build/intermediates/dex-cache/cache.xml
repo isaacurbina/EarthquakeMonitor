@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Naranya\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Naranya\StudioProjects\EarthquakeMonitor\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-40d29fa23e352049ef7f478b9832f6793d247ae3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Naranya\StudioProjects\EarthquakeMonitor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\4.2.42\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="e5f81129dfb3d02df80126512bc98278ed2bb40a">
+        <dex dex="C:\Users\Naranya\StudioProjects\EarthquakeMonitor\app\build\intermediates\pre-dexed\debug\classes-d19d54f03b35ac46fe6e31908c70561aa85fefdc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Naranya\StudioProjects\EarthquakeMonitor\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Naranya\StudioProjects\EarthquakeMonitor\app\build\intermediates\pre-dexed\debug\classes-b6f88cadb406695d6e5dbcf807ab22d30df169d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Naranya\StudioProjects\EarthquakeMonitor\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Naranya\StudioProjects\EarthquakeMonitor\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-4c78735f393a64035f444ddbe792ce3b0ae4cb8b.jar" />
+    </item>
+
+</items>

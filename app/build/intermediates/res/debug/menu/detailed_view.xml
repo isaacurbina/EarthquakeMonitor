@@ -1,0 +1,5 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.brighterbrain.earthquakemonitor.DetailedView" >
+</menu>
+<!-- From: file:/C:/Users/Naranya/StudioProjects/EarthquakeMonitor/app/src/main/res/menu/detailed_view.xml -->

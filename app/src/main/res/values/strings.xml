@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Earthquake Monitor</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Map</string>
+    <string name="title_activity_detailed_view">DetailedView</string>
+    <string name="menuitem_refresh">Refresh</string>
+    <string name="title_activity_summary_map">SummaryMap</string>
+
+</resources>

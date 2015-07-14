@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/summary_map" android:title="@string/action_settings"
+        android:showAsAction="always" />
+    <item android:id="@+id/feed_refresh_menu"
+        android:icon="@drawable/ic_menu_refresh"
+        android:title="@string/menuitem_refresh"
+        android:alphabeticShortcut="r"
+        android:showAsAction="always" />
+</menu><!-- From: file:/C:/Users/Naranya/StudioProjects/EarthquakeMonitor/app/src/main/res/menu/feed_refresh_menu.xml -->
